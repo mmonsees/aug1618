@@ -1,2 +1,3 @@
-# aug1618
-Example
+README.md
+
+Hi this is a readme....
